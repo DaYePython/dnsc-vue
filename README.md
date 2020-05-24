@@ -1,14 +1,3 @@
-# vue-admin
-
-![](https://img.shields.io/badge/license-MIT-0.svg)
-![](https://img.shields.io/badge/download-2M-0.svg)
-![](https://img.shields.io/badge/language-zh-0.svg)
-![](https://img.shields.io/badge/platform-win/mac-0.svg)
-![](https://img.shields.io/badge/node@latest->6.0.0-0.svg)
-## 相关文章
-1. [vue-cli3 项目从搭建优化到docker部署](https://juejin.im/post/5c4a6fcd518825469414e062)
-2. [使用 webpack 的各种插件提升你的开发效率](https://juejin.im/post/5c8852f95188257a323f5cee)
-
 ## 项目
 ### 安装依赖
 ```
@@ -54,7 +43,6 @@ npm run new:view
 10. [ ] ...
 
 ## 系统功能
-### 已完成的功能
 1. [x] 自动注册全局组件
 2. [x] 自动扫描路由
 3. [x] 支持使用svg图片
@@ -63,17 +51,7 @@ npm run new:view
 6. [x] `GZIP`压缩
 7. [x] 第三方库`cdn`
 8. [x] 支持全站`js`,`css` 上传到七牛`cdn`
-9. [ ] ~~移动端 `rem` 适配~~
-10. [x] 打包 `production` 环境清除 `console`
-11. [x] sprites 精灵图自动合成，支持分组
-12. [x] 图片压缩
-13. [x] Mock数据
-### 未完成的功能
-1. [ ] 第三方库打包成 dll 引用
-2. [ ] 过滤器
-3. [ ] ...
-
-## 欢迎关注
-欢迎关注公众号“**码上开发**”，每天分享最新技术资讯
-
-![image](https://user-gold-cdn.xitu.io/2018/12/24/167ddc2c7f13cdf5?w=430&h=430&f=png&s=54797)
+9. [x] 打包 `production` 环境清除 `console`
+10. [x] sprites 精灵图自动合成，支持分组
+11. [x] 图片压缩
+12. [x] Mock数据
